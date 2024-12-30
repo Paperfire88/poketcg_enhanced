@@ -1,0 +1,12 @@
+Pokémon TCG Enhanced Changelog
+• All text in the cards have been changed to be more simpler and easier to understand.
+• At the start of the game you can choose whether to play as Mark or Mint, exactly like in the Sequel!
+• Now the start of the game is a little bit faster, the Tutorial is now optional and Text Speed is set to 5.
+• The Sprites of the Main Duelists of the Game have been replaced by those of the Sequel. (Many of those were modified by me, especially Mint's Sprite)
+• Phantom Venusaur can be found in MYSTERY Packs, and Phantom Mew in LABORATORY.
+• Sam now give 50 Energy Cards in his special booster
+• Fixed Various Bugs and Code Errors from the original game.
+
+-----------Technical Stuff------------------------
+• Added a new GFX Section (SECTION "Gfx 13", ROMX).
+• The Effect Commands and Effect Functions have been optimized little, mainly removing unnecesary parts and duplicated effects, so you should have more space there. (this also applies to the Text.)
