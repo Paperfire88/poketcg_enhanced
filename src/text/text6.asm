@@ -770,8 +770,8 @@ Text05a5:
 
 Text05a6:
 	text "No, Ronald! That cannot be "
-	line "allowed! He, too, has earned "
-	line "the right to inherit the "
+	line "allowed! this duelist, too, has "
+	line "earned the right to inherit the "
 	line "Legendary Pokémon Cards!"
 	line "Ronald! <RAMNAME>!"
 	line "You two must duel to determine who "
@@ -1172,18 +1172,6 @@ Text05d9:
 	line "needed in order to play Wartortle,"
 	line "and Wartortle is needed in"
 	line "order to play Blastoise."
-	done
-
-Text05da:
-	text "Some Pokémon have special"
-	line "abilities called Pokémon Powers."
-	line "Some Pokémon Powers are used as"
-	line "soon as the Pokémon is played,"
-	line "while others must be used by"
-	line "choosing the PKMN Power command."
-	line "There are many different Pokémon"
-	line "Powers, so read each card's text"
-	line "carefully."
 	done
 
 	ds $bc

@@ -12,6 +12,7 @@ GameLoop::
 	ld a, [sSkipDelayAllowed]
 	ld [wSkipDelayAllowed], a
 	call DisableSRAM
+	;You can remove	the next 2 lines If you want the game to use lowercase font characters
 	ld a, 1
 	ld [wUppercaseHalfWidthLetters], a
 	ei
@@ -37,6 +38,7 @@ GameLoop::
 
 InitSaveDataAndSetUppercase::
 	farcall InitSaveData
+	;You can remove	the next 2 lines If you want the game to use lowercase font characters
 	ld a, 1
 	ld [wUppercaseHalfWidthLetters], a
 	ret

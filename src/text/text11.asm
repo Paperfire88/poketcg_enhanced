@@ -67,7 +67,7 @@ StarshapeName:
 	done
 
 StaryuDescription:
-	text "An enigmatic PKMN that can"
+	text "An enigmatic Pokémon that can"
 	line "effortlessly regenerate any"
 	line "appendage it loses in battle."
 	done
@@ -81,10 +81,10 @@ RecoverName:
 	done
 
 StarmiesRecoverDescription:
-	text "If this PKMN has any Damage Counters"
-	line "on it: Discard 1 <WATER> Energy attached"
-	line "to this PKMN. Heal all damage from"
-	line "this card."
+	text "If this Pokémon has any Damage"
+	line "Counters on it: Discard 1 <WATER> Energy"
+	line "attached to this Pokémon. Heal all"
+	line "damage from this card."
 	done
 
 StarFreezeName:
@@ -158,7 +158,7 @@ TransportName:
 	done
 
 LaprasDescription:
-	text "A PKMN that has been overhunted"
+	text "A Pokémon that has been overhunted"
 	line "almost to extinction. It can ferry"
 	line "people across water."
 	done
@@ -208,7 +208,7 @@ ClairvoyanceName:
 	done
 
 ClairvoyanceDescription:
-	text "As long as this PKMN is in play,"
+	text "As long as this Pokémon is in play,"
 	line "Your opponent plays with their hand"
 	line "revealed."
 	done
@@ -236,7 +236,7 @@ EmptyText0x09a8:
 	done
 
 OmastarDescription:
-	text "A prehistoric PKMN that died out"
+	text "A prehistoric Pokémon that died out"
 	line "when its heavy shell made it"
 	line "impossible for it to catch prey."
 	done
@@ -256,11 +256,11 @@ BlizzardName:
 BlizzardDescription:
 	text "Flip a coin. If heads, this attack"
 	line "does 10 damage to each of your"
-	line "opponent's Benched PKMN."
+	line "opponent's Benched Pokémon."
 	line "If tails, this attack does 10 damage"
-	line "to each of your Benched PKMN."
+	line "to each of your Benched Pokémon."
 	line "(Don't apply Weakness or Resistance"
-	line "for Benched PKMN.)"
+	line "for Benched Pokémon.)"
 	done
 
 FreezeName:
@@ -268,7 +268,7 @@ FreezeName:
 	done
 
 ArticunoLv35Description:
-	text "A legendary bird PKMN that is"
+	text "A legendary bird Pokémon that is"
 	line "said to appear to doomed people who"
 	line "are lost in icy mountains."
 	done
@@ -278,10 +278,10 @@ QuickfreezeName:
 	done
 
 QuickfreezeDescription:
-	text "When you play this PKMN from your"
+	text "When you play this Pokémon from your"
 	line "hand (not during set-up), Flip a"
-	line "coin. If heads, the Defending PKMN"
-	line "is now Paralyzed."
+	line "coin. If heads, the Defending"
+	line "Pokémon is now Paralyzed."
 	done
 
 IceBreathName:
@@ -290,12 +290,12 @@ IceBreathName:
 
 IceBreathDescription:
 	text "Does 40 damage to 1 of your"
-	line "opponent's PKMN chosen at random."
+	line "opponent's Pokémon chosen at random."
 	line "(Don't apply Weakness or Resistance)"
 	done
 
 ArticunoLv37Description:
-	text "A legendary bird PKMN. It freezes"
+	text "A legendary bird Pokémon. It freezes"
 	line "water that is contained in winter"
 	line "air and makes it snow."
 	done
@@ -322,7 +322,7 @@ MouseName:
 	done
 
 PikachuLv12Description:
-	text "When several of these PKMN"
+	text "When several of these Pokémon"
 	line "gather, their electricity can cause"
 	line "lightning storms."
 	done
@@ -332,14 +332,14 @@ SparkName:
 	done
 
 SparkDescription:
-	text "This attack also does 10 damage to" 
-	line "1 of your opponent's Benched PKMN."
+	text "This attack also does 10 damage to 1" 
+	line "of your opponent's Benched Pokémon."
 	line "(If any.) (Don't apply Weakness or"
 	line "Resistance.)"
 	done
 
 PikachuLv14Description:
-	text "When several of these PKMN"
+	text "When several of these Pokémon"
 	line "gather, their electricity can build"
 	line "and cause lightning storms."
 	done
@@ -350,7 +350,7 @@ GrowlName:
 
 GrowlDescription:
 	text "During your opponent's next turn,"
-	line "the Defending PKMN attacks do -10"
+	line "the Defending Pokémon attacks do -10"
 	line "less damage (before applying"
 	line "Weakness or Resistance)."
 	done
@@ -360,7 +360,7 @@ ThundershockName:
 	done
 
 PikachuLv16Description:
-	text "When several of these PKMN"
+	text "When several of these Pokémon"
 	line "gather, their electricity could"
 	line "build and cause lightning storms."
 	done
@@ -375,15 +375,15 @@ FlyName:
 
 FlyDescription:
 	text "Flip a coin. If heads, during your"
-	line "opponent's next turn, this PKMN is"
-	line "unaffected by attacks. If tails,"
+	line "opponent's next turn, this Pokémon"
+	line "is unaffected by attacks. If tails,"
 	line "this attack Fails."
 	done
 
 FlyingPikachuDescription:
 	text "By learning how to fly, Pikachu"
 	line "overcame its weakness to Fighting"
-	line "PKMN."
+	line "Pokémon."
 	done
 
 SurfingPikachuName:
@@ -429,9 +429,9 @@ GigashockName:
 
 GigashockDescription:
 	text "This attack does 10 damage to up to" 
-	line "3 of your opponent's Benched Pkmn." 
+	line "3 of your opponent's Benched Pokémon" 
 	line "(Don't apply Weakness or Resistance"
-	line "for Benched PKMN.)"
+	line "for Benched Pokémon)."
 	done
 
 RaichuLv45Description:
@@ -450,9 +450,9 @@ ThunderWaveName:
 
 MagnemitesSelfdestructDescription:
 	text "Does 10 damage to each player's"
-	line "Benched PKMN. (Don't apply Weakness"
-	line "or Resistance) this PKMN takes 40"
-	line "damage."
+	line "Benched Pokémon. (Don't apply"
+	line "Weakness or Resistance) this Pokémon"
+	line "takes 40 damage."
 	done
 
 MagnetName:
@@ -471,7 +471,7 @@ MagneticStormName:
 
 MagneticStormDescription:
 	text "Remove all Energy cards attached to"
-	line "all of your PKMN, then randomly"
+	line "all of your Pokémon, then randomly"
 	line "reattach each of them."
 	done
 
@@ -487,9 +487,9 @@ MagnetonName:
 
 MagnetonLv28sSelfdestructDescription:
 	text "Does 20 damage to each player's"
-	line "Benched PKMN. (Don't apply Weakness"
-	line "or Resistance) this PKMN takes 80"
-	line "damage."
+	line "Benched Pokémon. (Don't apply"
+	line "Weakness or Resistance) this Pokémon"
+	line "takes 80 damage."
 	done
 
 MagnetonLv28Description:
@@ -542,7 +542,7 @@ EnergySpikeName:
 EnergySpikeDescription:
 	text "Search your deck for a basic Energy"
 	line "card and attach it to 1 of your"
-	line "PKMN. Then, shuffle your deck."
+	line "Pokémon. Then, shuffle your deck."
 	done
 
 ElectrodeLv35Description:
@@ -556,10 +556,10 @@ ChainLightningName:
 	done
 
 ChainLightningDescription:
-	text "If the Defending PKMN isn't <COLORLESS>,"
+	text "If the Defending Pokémon isn't <COLORLESS>,"
 	line "this attack does 10 damage to each"
-	line "player's Benched PKMN of the same" 
-	line "type as the Defending PKMN."
+	line "player's Benched Pokémon of the same" 
+	line "type as the Defending Pokémon."
 	done
 
 ElectrodeLv42Description:
@@ -579,8 +579,8 @@ LightScreenName:
 
 LightScreenDescription:
 	text "During your opponent's next turn,"
-	line "This PKMN takes Half the damage done" 
-	line "from attacks (after Weakness and" 
+	line "This Pokémon takes Half the damage" 
+	line "done from attacks (after Weakness or" 
 	line "Resistance). (rounded down)."
 	done
 
@@ -597,7 +597,7 @@ ElectricName:
 	done
 
 ElectabuzzLv20Description:
-	text "A wild PKMN with a short temper."
+	text "A wild Pokémon with a short temper."
 	line "It is able to distinguish colors"
 	line "and likes the color red."
 	done
@@ -636,7 +636,7 @@ LightningName:
 	done
 
 JolteonLv24Description:
-	text "A sensitive PKMN that easily"
+	text "A sensitive Pokémon that easily"
 	line "becomes sad or angry. Every time"
 	line "its mood changes, it charges power."
 	done
@@ -666,14 +666,14 @@ ThunderstormName:
 
 ThunderstormDescription:
 	text "For each of your opponent's Benched"
-	line "PKMN, Flip a coin. If heads, do 20"
-	line "damage to that PKMN. (Don't apply"
-	line "Weakness/Resistance) If tails, Take"
-	line "10 damage."
+	line "Pokémon, Flip a coin. If heads, do"
+	line "20 damage to that Pokémon. (Don't"
+	line "apply Weakness/Resistance) If tails,"
+	line "Take 10 damage."
 	done
 
 ZapdosLv40Description:
-	text "A legendary thunderbird PKMN"
+	text "A legendary thunderbird Pokémon"
 	line "whose anger is said to cause storms."
 	line "Some say it has lived above the"
 	line "clouds for thousands of years."
@@ -689,11 +689,11 @@ ThunderboltName:
 
 ThunderboltDescription:
 	text "Discard all Energy cards attached to"
-	line "This PKMN to use this attack."
+	line "This Pokémon to use this attack."
 	done
 
 ZapdosLv64Description:
-	text "A legendary bird PKMN said to"
+	text "A legendary bird Pokémon said to"
 	line "appear from clouds while wielding"
 	line "enormous lightning bolts."
 	done
@@ -703,10 +703,10 @@ PealOfThunderName:
 	done
 
 PealOfThunderDescription:
-	text "When you play this PKMN from your"
+	text "When you play this Pokémon from your"
 	line "hand (not during set-up), do 30"
-	line "damage to 1 random PKMN in play,"
-	line "except this PKMN. (Don't apply"
+	line "damage to 1 random Pokémon in play,"
+	line "except this Pokémon. (Don't apply"
 	line "Weakness or Resistance.)"
 	done
 
@@ -715,14 +715,14 @@ BigThunderName:
 	done
 
 BigThunderDescription:
-	text "Choose a PKMN in play other than"
-	line "this One at random. This attack does"
-	line "70 damage to that PKMN. (Don't apply"
-	line "Weakness ot Resistance.)"
+	text "Choose a Pokémon in play other than"
+	line "this one at random. This attack does"
+	line "70 damage to that Pokémon. (Don't"
+	line "apply Weakness or Resistance.)"
 	done
 
 ZapdosLv68Description:
-	text "This legendary bird PKMN is said"
+	text "This legendary bird Pokémon is said"
 	line "to appear when the sky turns dark"
 	line "and lightning showers down."
 	done
@@ -788,8 +788,8 @@ EarthquakeName:
 
 EarthquakeDescription:
 	text "Does 10 damage to each of your own"
-	line "Benched PKMN. (Don't apply Weakness"
-	line "or Resistance for Benched PKMN.)"
+	line "Benched Pokémon. (Don't apply"
+	line "Weakness or Resistance.)"
 	done
 
 DugtrioDescription:
@@ -837,8 +837,8 @@ TantrumName:
 	done
 
 TantrumDescription:
-	text "Flip a coin. If tails, this PKMN is"
-	line "now Confused (after doing damage)."
+	text "Flip a coin. If tails, this Pokémon"
+	line "is now Confused (after doing damage)"
 	done
 
 PrimeapeDescription:
@@ -876,7 +876,7 @@ KarateChopName:
 
 KarateChopDescription:
 	text "Does -10 less damage for each damage"
-	line "counter on this PKMN."
+	line "counter on this Pokémon."
 	done
 
 SubmissionName:
@@ -902,17 +902,18 @@ StrikesBackName:
 	done
 
 StrikesBackDescription:
-	text "If this PKMN is your Active PKMN and"
+	text "If this is your Active Pokémon and"
 	line "is damaged by an opponent's attack" 
-	line "(even if this PKMN is Knocked Out)," 
-	line "put 1 damage counters on the"
-	line "Attacking PKMN."
+	line "(even if this Pokémon is Knocked" 
+	line "Out), put 1 damage counter on the"
+	line "Attacking Pokémon."
 	done
 
 StrikesBackDescriptionCont:
-	text "This PKMN power can't be used if" 
-	line "this PKMN is affected by a Special" 
-	line "Condition when your opponent attacks"
+	text "This Pokémon power can't be used if" 
+	line "this Pokémon is affected by a" 
+	line "Special Condition when your opponent"
+	line "attacks."
 	done
 
 SeismicTossName:
@@ -960,9 +961,8 @@ HardenName:
 HardenDescription:
 	text "During your opponent's next turn,"
 	line "if 30 or less damage is done to"
-	line "this PKMN, prevent that damage."
-	line "(after applying Weakness or"
-	line "Resistance)"
+	line "this Pokémon, prevent that damage."
+	line "(after applying Weakness/Resistance)"
 	done
 
 RockThrowName:
@@ -985,9 +985,9 @@ AvalancheName:
 
 GolemsSelfdestructDescription:
 	text "Does 20 damage to each player's"
-	line "Benched PKMN. (Don't apply Weakness"
-	line "or Resistance) this PKMN takes 100"
-	line "damage."
+	line "Benched Pokémon. (Don't apply"
+	line "Weakness or Resistance) this Pokémon"
+	line "takes 100 damage."
 	done
 
 MegatonName:
@@ -1028,7 +1028,7 @@ SnivelName:
 
 SnivelDescription:
 	text "During your opponent's next turn,"
-	line "the Defending PKMN attacks do -20"
+	line "the Defending Pokémon attacks do -20"
 	line "less damage (before applying"
 	line "Weakness or Resistance)."
 	done
@@ -1044,7 +1044,7 @@ LonelyName:
 CuboneDescription:
 	text "Because it never removes its skull"
 	line "helmet, no one has ever seen this"
-	line "PKMN's real face."
+	line "Pokémon's real face."
 	done
 
 MarowakName:
@@ -1061,7 +1061,7 @@ CallforFriendName:
 
 CallforFriendDescription:
 	text "If your Bench isn't full: Search"
-	line "your deck for a <FIGHTING> Basic PKMN and"
+	line "your deck for a <FIGHTING> Basic Pokémon and"
 	line "put it onto your Bench. then,"
 	line "Shuffle your deck."
 	done
@@ -1082,7 +1082,7 @@ BoneAttackName:
 
 BoneAttackDescription:
 	text "Flip a coin. If heads, the Defending"
-	line "PKMN can't attack during your"
+	line "Pokémon can't attack during your"
 	line "opponent's next turn."
 	done
 
@@ -1092,13 +1092,13 @@ WailName:
 
 WailDescription:
 	text "Each player randomly selects Basic" 
-	line "PKMN from their deck to fill their"
-	line "Bench (If Any). Each Player" 
+	line "Pokémon from their deck to fill"
+	line "their Bench (If Any). Each Player" 
 	line "shuffles their deck afterwards."
 	done
 
 MarowakLv32Description:
-	text "Small and weak, this PKMN is"
+	text "Small and weak, this Pokémon is"
 	line "adept with its bone club. It has"
 	line "grown more vicious over the ages."
 	done
@@ -1113,9 +1113,9 @@ StretchKickName:
 
 StretchKickDescription:
 	text "If your opponent has any Benched"
-	line "PKMN, choose 1 of them and deal 20"
-	line "damage to it. (Don't apply Weakness"
-	line "or Resistance)"
+	line "Pokémon, choose 1 of them and deal"
+	line "20 damage to it. (Don't apply"
+	line "Weakness or Resistance)"
 	done
 
 HighJumpKickName:
@@ -1164,7 +1164,7 @@ LeerName:
 
 LeerDescription:
 	text "Flip a coin. If heads, the Defending"
-	line "PKMN can't attack during your" 
+	line "Pokémon can't attack during your" 
 	line "opponent's next turn."
 	done
 
@@ -1188,8 +1188,9 @@ RamName:
 
 RamDescription:
 	text "After doing damage, Switch in 1 of" 
-	line "your opponent's Benched PKMN to the"
-	line "Active Spot. Then, take 20 damage."
+	line "your opponent's Benched Pokémon to"
+	line "the Active Spot. Then,"
+	line "take 20 damage."
 	done
 
 EmptyText0x0a69:
@@ -1211,9 +1212,9 @@ KabutoArmorName:
 	done
 
 KabutoArmorDescription:
-	text "This PKMN takes Half the damage done" 
-	line "from attacks (after Weakness and" 
-	line "Resistance). (rounded down)."
+	text "This Pokémon takes Half the damage" 
+	line "done from attacks (after Weakness" 
+	line "and Resistance). (rounded down)."
 	done
 
 EmptyText0x0a6e:
@@ -1221,7 +1222,7 @@ EmptyText0x0a6e:
 	done
 
 KabutoDescription:
-	text "A PKMN that was resurrected from"
+	text "A Pokémon that was resurrected from"
 	line "a fossil found in what was once the"
 	line "ocean floor eons ago."
 	done
@@ -1261,9 +1262,9 @@ PrehistoricPowerName:
 	done
 
 PrehistoricPowerDescription:
-	text "As long as this PKMN is in play,"
+	text "As long as this Pokémon is in play,"
 	line "Neither player can play Evolution"
-	line "PKMN from their hand."
+	line "Pokémon from their hand."
 	done
 
 FossilName:
@@ -1271,7 +1272,7 @@ FossilName:
 	done
 
 AerodactylDescription:
-	text "A ferocious prehistoric PKMN that"
+	text "A ferocious prehistoric Pokémon that"
 	line "goes for the enemy's throat with its"
 	line "serrated saw-like fangs."
 	done
@@ -1295,10 +1296,10 @@ KadabraName:
 	done
 
 KadabrasRecoverDescription:
-	text "If this PKMN has any Damage Counters"
-	line "on it: Discard 1 <PSYCHIC> Energy attached"
-	line "to this PKMN. Heal all damage from"
-	line "this card."
+	text "If this Pokémon has any Damage"
+	line "Counters on it: Discard 1 <PSYCHIC> Energy"
+	line "attached to this Pokémon. Heal all"
+	line "damage from this card."
 	done
 
 SuperPsiName:

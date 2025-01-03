@@ -196,7 +196,7 @@ Text05f0:
 	done
 
 Text05f1:
-	text "<RAMNAME> handed his cards to "
+	text "<RAMNAME> handed their cards to "
 	line "Dr. Mason."
 	done
 
@@ -852,7 +852,7 @@ Text0656:
 Text0657:
 	text "A single match with 4 prizes!"
 	line "Come on, my precious ghosts!"
-	line "Let's make his Pokémon disappear!"
+	line "Let's make their Pokémon disappear!"
 	done
 
 Text0658:
@@ -961,7 +961,7 @@ Text0666:
 	text "Did you hear?"
 	line "Someone inherited the Legendary"
 	line "Pokémon Cards! Whomever it is,"
-	line "he must be really cool if he "
+	line "they must be really cool if they"
 	line "can defeat the Grand Masters!"
 	done
 
@@ -1126,11 +1126,6 @@ Text0682:
 	line "you're trying to inherit"
 	line "the Legendary Pokémon Cards."
 	line "Here, take this Psychic Medal."
-	done
-
-Text0683:
-	text "And here, take this"
-	line "LABORATORY Booster Pack!"
 	done
 
 	ds $29

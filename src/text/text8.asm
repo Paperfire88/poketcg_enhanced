@@ -189,7 +189,7 @@ Text069f:
 
 Text06a0:
 	text "<RAMNAME> lost all "
-	line "his Energy cards!"
+	line "their Energy cards!"
 	done
 
 Text06a1:

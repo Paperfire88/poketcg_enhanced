@@ -1,4 +1,13 @@
 Pokémon TCG Enhanced Changelog
+V1.0.1
+Fixed some Text typos.
+All descriptions that mentioned "PKMN" now mention "Pokémon". (Altough i recommend using "PKMN" if you want to make Custom Cards, it helps you save some unnecesary lines)
+-----------Technical Stuff------------------------
+In ‎src/engine/game_loop.asm there are now 2 comments on about how to use the lowercase font, in line 15 and 41.
+Due to some space restrictions, Text05da and Text0683 where moved to text13.asm
+
+--------------------------------------------------
+V1.0:
 • All text in the cards have been changed to be more simpler and easier to understand.
 • At the start of the game you can choose whether to play as Mark or Mint, exactly like in the Sequel!
 • Now the start of the game is a little bit faster, the Tutorial is now optional and Text Speed is set to 5.

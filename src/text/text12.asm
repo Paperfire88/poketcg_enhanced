@@ -2,8 +2,8 @@ DamageSwapDescription:
 	text "As often as you like during your"
 	line "turn (before your attack), You may"
 	line "move 1 damage counter from 1 of your"
-	line "PKMN to another as long as you don't"
-	line "Knock it Out."
+	line "Pokémon to another as long as you"
+	line "don't Knock it Out."
 	done
 
 AlakazamDescription:
@@ -35,9 +35,10 @@ SpacingOutName:
 	done
 
 SpacingOutDescription:
-	text "If this PKMN has any Damage Counters"
-	line "on it: Flip a coin. If heads, heal"
-	line "10 damage from this PKMN."
+	text "If this Pokémon has any Damage"
+	line "Counters on it: Flip a coin."
+	line "If heads, heal 10 damage from"
+	line "this Pokémon."
 	done
 
 ScavengeName:
@@ -46,7 +47,7 @@ ScavengeName:
 
 ScavengeDescription:
 	text "Discard 1 <PSYCHIC> Energy card attached to"
-	line "this PKMN; Put a Trainer card from"
+	line "this Pokémon;Put a Trainer card from"
 	line "your discard pile into your hand."
 	done
 
@@ -61,9 +62,10 @@ StrangeBehaviorName:
 StrangeBehaviorDescription:
 	text "As often as you like during your"
 	line "turn (before your attack), You may"
-	line "move 1 damage counter from 1 of"
-	line "your PKMN to this PKMN. You can't" 
-	line "Knock Out this PKMN with this effect" 
+	line "move 1 damage counter from 1 of your"
+	line "Pokémon to this Pokémon. You can't"
+	line "Knock Out this Pokémon with this"
+	line "effect." 
 	done
 
 HermitcrabName:
@@ -86,7 +88,7 @@ SleepingGasName:
 
 MayInflictSleepDescription:
 	text "Flip a coin. If heads, the Defending"
-	line "PKMN is now Asleep."
+	line "Pokémon is now Asleep."
 	done
 
 DestinyBondName:
@@ -95,9 +97,9 @@ DestinyBondName:
 
 DestinyBondDescription:
 	text "Discard 1 <PSYCHIC> Energy attached to this"
-	line "PKMN. If an opponent PKMN Knocks Out"
-	line "this PKMN with an attack; that PKMN"
-	line "is Knock Out."
+	line "Pokémon. If an opponent Pokémon"
+	line "Knocks Out this Pokémon with an"
+	line "attack; that Pokémon is Knock Out."
 	done
 
 GasName:
@@ -106,7 +108,7 @@ GasName:
 
 GastlyLv8Description:
 	text "Almost invisible, this gaseous"
-	line "PKMN cloaks the target and puts"
+	line "Pokémon cloaks the target and puts"
 	line "it to sleep without notice."
 	done
 
@@ -125,7 +127,7 @@ EnergyConversionDescription:
 	done
 
 GastlyLv17Description:
-	text "A mysterious PKMN. Some say it is"
+	text "A mysterious Pokémon. Some say it is"
 	line "a lifeform from another dimension,"
 	line "while others believe it is formed"
 	line "from smog."
@@ -140,9 +142,9 @@ TransparencyName:
 	done
 
 TransparencyDescription:
-	text "If the Defending PKMN attacks this" 
-	line "PKMN, your opponent flips a coin."
-	line "If tails, that attack fails."
+	text "If the Defending Pokémon attacks" 
+	line "this Pokémon, your opponent flips a"
+	line "coin. If tails, that attack fails."
 	done
 
 NightmareName:
@@ -160,8 +162,8 @@ DreamEaterName:
 	done
 
 DreamEaterDescription:
-	text "If the Defending PKMN is not Asleep,"
-	line "this attack fails."
+	text "If the Defending Pokémon is not"
+	line "Asleep, this attack fails."
 	done
 
 GengarName:
@@ -175,8 +177,8 @@ CurseName:
 CurseDescription:
 	text "Once per turn (before your attack),"
 	line "you may move 1 damage counter from 1"
-	line "of your opponent's PKMN to another"
-	line "(even if it would Knock Out)."
+	line "of your opponent's Pokémon to"
+	line "another (even if it would Knock Out)"
 	done
 
 DarkMindName:
@@ -192,7 +194,7 @@ ShadowName:
 	done
 
 GengarDescription:
-	text "Under a full moon, this PKMN"
+	text "Under a full moon, this Pokémon"
 	line "likes to mimic the shadows of people"
 	line "and laugh at their fright."
 	done
@@ -242,8 +244,7 @@ InvisibleWallDescription:
 	text "If an attack (including your own)"
 	line "does 30 or more damage to this Card"
 	line "(after Weakness and Resistance),"
-	line "prevent that damage. (Any other"
-	line "effects of attacks still happen.)"
+	line "prevent that damage."
 	done
 
 EmptyText0x0ab6:
@@ -256,7 +257,7 @@ MeditateName:
 
 MeditateDescription:
 	text "Does +10 more damage for each damage" 
-	line "counter on the Defending PKMN."
+	line "counter on the Defending Pokémon."
 	done
 
 BarrierName:
@@ -287,7 +288,7 @@ HumanShapeName:
 	done
 
 JynxDescription:
-	text "Merely by meditating, the PKMN"
+	text "Merely by meditating, the Pokémon"
 	line "launches a powerful psychic energy"
 	line "attack."
 	done
@@ -302,14 +303,14 @@ PsychicName:
 
 PsychicDescription:
 	text "Does +10 more damage for each Energy"
-	line "attached to the Defending PKMN."
+	line "attached to the Defending Pokémon."
 	done
 
 BarrierDescription:
 	text "Discard 1 <PSYCHIC> Energy card attached to"
-	line "this PKMN, during your opponent's"
-	line "next turn, this PKMN is unaffected"
-	line "by attacks."
+	line "this Pokémon, during your opponent's"
+	line "next turn, this Pokémon is"
+	line "unaffected by attacks."
 	done
 
 GeneticName:
@@ -317,7 +318,7 @@ GeneticName:
 	done
 
 MewtwoLv53Description:
-	text "A scientist created this PKMN"
+	text "A scientist created this Pokémon"
 	line "after years of horrific"
 	line "gene-splicing and DNA engineering"
 	line "experiments."
@@ -329,7 +330,7 @@ EnergyAbsorptionName:
 
 EnergyAbsorptionDescription:
 	text "Attach up to 2 Energy cards from"  
-	line "your discard pile to this PKMN."
+	line "your discard pile to this Pokémon."
 	done
 
 PsyburnName:
@@ -339,7 +340,7 @@ PsyburnName:
 MewtwoLv60Description:
 	text "Years of genetic experiments"
 	line "resulted in the creation of this"
-	line "never-before-seen violent PKMN."
+	line "never-before-seen violent Pokémon."
 	done
 
 MewName:
@@ -351,8 +352,9 @@ NeutralizingShieldName:
 	done
 
 NeutralizingShieldDescription:
-	text "this PKMN is unaffected by attacks"
-	line "from your opponent's evolved PKMN."
+	text "this Pokémon is unaffected by"
+	line "attacks from your opponent's"
+	line "evolved Pokémon."
 	done
 
 NewSpeciesName:
@@ -372,12 +374,12 @@ MysteryAttackName:
 MysteryAttackDescription:
 	text "Does a random amount of damage and"
 	line "may cause a random effect to the"
-	line "Defending PKMN."
+	line "Defending Pokémon."
 	done
 
 MewLv15Description:
 	text "When viewed through a microscope, "
-	line "this PKMN's short, fine, delicate"
+	line "this Pokémon's short, fine, delicate"
 	line "hair can be seen."
 	done
 
@@ -387,7 +389,7 @@ PsywaveName:
 
 PsywaveDescription:
 	text "Does 10 damage for each Energy card"
-	line "attached to the Defending PKMN."
+	line "attached to the Defending Pokémon."
 	done
 
 DevolutionBeamName:
@@ -395,7 +397,7 @@ DevolutionBeamName:
 	done
 
 DevolutionBeamDescription:
-	text "Devolve 1 evolved PKMN on Play by"
+	text "Devolve 1 evolved Pokémon on Play by"
 	line "putting the highest Stage Evolution" 
 	line "card on it into their owner's hand."
 	done
@@ -423,9 +425,9 @@ MirrorMoveName:
 	done
 
 MirrorMoveDescription:
-	text "If this PKMN was attacked last turn,"
-	line "do the final result of that attack"
-	line "on the Defending PKMN."
+	text "If this Pokémon was attacked last"
+	line "turn, do the final result of that"
+	line "attack on the Defending Pokémon."
 	done
 
 BirdName:
@@ -434,7 +436,7 @@ BirdName:
 
 PidgeottoDescription:
 	text "Very protective of its sprawling"
-	line "territory, this PKMN will"
+	line "territory, this Pokémon will"
 	line "fiercely peck at any intruder."
 	done
 
@@ -448,7 +450,7 @@ SlicingWindName:
 
 SlicingWildDescription:
 	text "Does 30 damage to 1 of your"
-	line "opponent's PKMN chosen at random."
+	line "opponent's Pokémon chosen at random."
 	line "(Don't apply Weakness or Resistance)"
 	done
 
@@ -457,14 +459,14 @@ GaleName:
 	done
 
 GaleDescription:
-	text "After Doing Damage, Switch this PKMN"
-	line "with 1 of your Benched PKMN at"
-	line "random. then, your opponent does the"
-	line "same."
+	text "After Doing Damage, Switch this"
+	line "Pokémon with 1 of your Benched"
+	line "Pokémon at random. then, your"
+	line "opponent does the same."
 	done
 
 PidgeotLv38Description:
-	text "This PKMN flies at Mach 2 speed,"
+	text "This Pokémon flies at Mach 2 speed,"
 	line "seeking prey. Its large talons are"
 	line "feared as wicked weapons."
 	done
@@ -474,7 +476,7 @@ HurricaneName:
 	done
 
 HurricaneDescription:
-	text "Return the Defending PKMN and all"
+	text "Return the Defending Pokémon and all"
 	line "cards attached to it to your"
 	line "opponent's hand."
 	done
@@ -509,8 +511,8 @@ SuperFangName:
 
 SuperFangDescription:
 	text "Put damage counters on the Defending"
-	line "PKMN equal to half of its remaining"
-	line "HP (rounded up)."
+	line "Pokémon equal to half of its"
+	line "remaining HP (rounded up)."
 	done
 
 RaticateDescription:
@@ -573,7 +575,7 @@ MetronomeName:
 
 MetronomeDescription:
 	text "Choose 1 Attack from the Defending"
-	line "PKMN and use it as this attack." 
+	line "Pokémon and use it as this attack." 
 	line "(Ignoring its Energy Cost.)"
 	done
 
@@ -600,7 +602,7 @@ EmptyText0x0aff:
 	done
 
 ClefableDescription:
-	text "A timid Fairy PKMN that is rarely"
+	text "A timid Fairy Pokémon that is rarely"
 	line "seen. It will run and hide the"
 	line "moment it senses people."
 	done
@@ -614,7 +616,7 @@ FirstAidName:
 	done
 
 FirstAidDescription:
-	text "Heal 10 damage from this PKMN."
+	text "Heal 10 damage from this Pokémon."
 	done
 
 DoubleEdgeName:
@@ -643,7 +645,8 @@ FriendshipSongName:
 FriendshipSongDescription:
 	text "If your Bench isn't full: Flip a"
 	line "coin. If heads, Put 1 random Basic"
-	line "PKMN from your deck onto your Bench."
+	line "Pokémon from your deck onto your"
+	line "Bench."
 	done
 
 ExpandName:
@@ -652,7 +655,7 @@ ExpandName:
 
 ExpandDescription:
 	text "During your opponent's next turn,"
-	line "this PKMN takes -10 less damage"
+	line "this Pokémon takes -10 less damage"
 	line "(after Weakness/Resistance)."
 	done
 
@@ -682,7 +685,7 @@ DoTheWaveName:
 
 DoTheWaveDescription:
 	text "Does +10 more damage for each of"
-	line "your Benched PKMN."
+	line "your Benched Pokémon."
 	done
 
 WigglytuffDescription:
@@ -701,7 +704,7 @@ CatPunchName:
 
 CatPunchDescription:
 	text "Do 20 damage to 1 of your"
-	line "opponent's PKMN chosen at random."
+	line "opponent's Pokémon chosen at random."
 	line "(Don't apply Weakness/Resistance.)" 
 	done
 
@@ -806,8 +809,9 @@ RetreatAidName:
 	done
 
 RetreatAidDescription:
-	text "As long as this PKMN is in play, you"
-	line "pay 1 <COLORLESS> less to retreat your PKMN."
+	text "As long as this Pokémon is in play,"
+	line "you pay 1 <COLORLESS> less to retreat"
+	line "your Pokémon."
 	done
 
 EmptyText0x0b2d:
@@ -859,7 +863,7 @@ ChanseysDoubleEdgeDescription:
 	done
 
 ChanseyDescription:
-	text "A rare and elusive PKMN that is"
+	text "A rare and elusive Pokémon that is"
 	line "said to bring happiness to those"
 	line "who manage to catch it."
 	done
@@ -900,9 +904,9 @@ RampageName:
 
 RampageDescription:
 	text "Does +10 more damage for each damage"
-	line "counter on this PKMN. Flip a coin."
-	line "If tails, this PKMN is now Confused"
-	line "(after doing damage)."
+	line "counter on this Pokémon. then,"
+	line "Flip a coin. If tails, this Pokémon"
+	line "is now Confused."
 	done
 
 WildBullName:
@@ -925,11 +929,11 @@ MorphName:
 
 MorphDescription:
 	text "Heal all damage, Status Conditions"
-	line "and/or Effects affecting this PKMN."
-	line "then, until the end of the Duel,"
-	line "replace This card with a copy of a"
-	line "Random Basic PKMN from your deck."
-	line "(Except DITTO.)"
+	line "and/or Effects affecting this"
+	line "Pokémon. then, until the end of the"
+	line "Duel, replace This card with a copy"
+	line "of a Random Basic Pokémon from your"
+	line "deck. (Except DITTO.)"
 	done
 
 EmptyText0x0b47:
@@ -952,7 +956,7 @@ TailWagName:
 
 TailWagDescription:
 	text "Flip a coin. If heads, the Defending"
-	line "PKMN can't attack during your"
+	line "Pokémon can't attack during your"
 	line "opponent's next turn."
 	done
 
@@ -975,9 +979,9 @@ Conversion1Name:
 	done
 
 Conversion1Description:
-	text "If the Defending PKMN has a Weakness"
-	line "you may change it to a type of your"
-	line "choice other than Colorless."
+	text "If the Defending Pokémon has a"
+	line "Weakness you may change it to a type"
+	line "of your choice other than Colorless."
 	done
 
 Conversion2Name:
@@ -985,7 +989,7 @@ Conversion2Name:
 	done
 
 Conversion2Description:
-	text "Change This PKMN Resistance to a"
+	text "Change This Pokémon Resistance to a"
 	line "type of your choice other than"
 	line "Colorless."
 	done
@@ -995,7 +999,7 @@ VirtualName:
 	done
 
 PorygonDescription:
-	text "A PKMN that consists entirely of"
+	text "A Pokémon that consists entirely of"
 	line "programming code. Capable of moving"
 	line "freely in cyberspace."
 	done
@@ -1009,8 +1013,8 @@ ThickSkinnedName:
 	done
 
 ThickSkinnedDescription:
-	text "This PKMN can't be affected by any"
-	line "Special Conditions. (Asleep,"
+	text "This Pokémon can't be affected by"
+	line "any Special Conditions. (Asleep,"
 	line "Confused, Paralyzed, or Poisoned.)"
 	done
 
@@ -1033,7 +1037,7 @@ DratiniName:
 	done
 
 DratiniDescription:
-	text "Long considered a mythical PKMN"
+	text "Long considered a mythical Pokémon"
 	line "until recently, when a small colony"
 	line "was found living underwater."
 	done
@@ -1047,7 +1051,7 @@ SlamName:
 	done
 
 DragonairDescription:
-	text "A mystical PKMN that exudes a"
+	text "A mystical Pokémon that exudes a"
 	line "gentle aura. Has the ability to"
 	line "change climate conditions."
 	done
@@ -1061,13 +1065,13 @@ HealingWindName:
 	done
 
 HealingWindDescription:
-	text "When you play this PKMN from your"
+	text "When you play this Pokémon from your"
 	line "hand, Heal 20 damage from each of"
-	line "your PKMN."
+	line "your Pokémon."
 	done
 
 DragoniteLv41Description:
-	text "It is said that this PKMN lives"
+	text "It is said that this Pokémon lives"
 	line "somewhere in the sea and that it"
 	line "flies. However, it is only a rumor."
 	done
@@ -1078,8 +1082,9 @@ StepInName:
 
 StepInDescription:
 	text "Once per turn (before your attack),"
-	line "if this PKMN is on your Bench, you"
-	line "may switch it with your Active PKMN."
+	line "if this Pokémon is on your Bench,"
+	line "you may switch it with your Active"
+	line "Pokémon."
 	done
 
 DoubleAttackX40Description:
@@ -1089,7 +1094,7 @@ DoubleAttackX40Description:
 
 DragoniteDescription:
 	text "An extremely rarely seen marine"
-	line "PKMN. Its intelligence is said"
+	line "Pokémon. Its intelligence is said"
 	line "to match that of humans."
 	done
 
@@ -1123,7 +1128,7 @@ MrFujiName:
 	done
 
 MrFujiDescription:
-	text "Choose a PKMN on your Bench."
+	text "Choose a Pokémon on your Bench."
 	line "Shuffle it and any cards attached"
 	line "to it into your deck."
 	done
@@ -1143,36 +1148,36 @@ ImakuniName:
 	done
 
 ImakuniDescription:
-	text "Your Active PKMN is now Confused."
+	text "Your Active Pokémon is now Confused."
 	line "Imakuni wants you to play him as a"
-	line "Basic PKMN, but you can't."
+	line "Basic Pokémon, but you can't."
 	line "A mysterious creature not listed in"
 	line "the Pokédex. He asks kids around the"
 	line "world,”Who is cuter-Pikachu or me?”"
 	done
 
 PokemonTraderName:
-	text "PKMN Trader"
+	text "Pokémon Trader"
 	done
 
 PokemonTraderDescription:
-	text "Reveal a PKMN from your hand and put" 
-	line "it into your deck. If you do, search"
-	line "your deck for a PKMN, reveal it, and"
-	line "put it into your hand. Then, shuffle"
-	line "your deck."
+	text "Reveal a Pokémon from your hand and" 
+	line "put it into your deck. If you do,"
+	line "search your deck for a Pokémon,"
+	line "reveal it, and put it into your hand."
+	line "Then, shuffle your deck."
 	done
 
 PokemonBreederName:
-	text "PKMN Breeder"
+	text "Pokémon Breeder"
 	done
 
 PokemonBreederDescription:
-	text "Choose 1 Stage 2 PKMN from your hand"
-	line "that evolves from 1 of your Basic"
-	line "PKMN in play, put it on that Basic"
-	line "PKMN. if you are allowed evolve it"
-	line "this turn."
+	text "Choose 1 Stage 2 Pokémon from your"
+	line "hand that evolves from 1 of your"
+	line "Basic Pokémon in play, put it on"
+	line "that Basic Pokémon. If you are"
+	line "allowed to evolve it this turn."
 	done
 
 ClefairyDollName:
@@ -1181,7 +1186,7 @@ ClefairyDollName:
 
 ClefairyDollDescription:
 	text "Play this card as if it were a 10-HP"
-	line "<COLORLESS> Basic PKMN. this card has no"
+	line "<COLORLESS> Basic Pokémon. this card has no"
 	line "attacks, can't retreat, and can't be"
 	line "Affected by any Status Conditions."
 	line "If this card is KO, your opponent" 
@@ -1191,7 +1196,7 @@ ClefairyDollDescription:
 ClefairyDollDescriptionCont:
 	text "On your turn (before your attack),"
 	line "you may discard this card. (Use"
-	line "the PKMN Power menu option.)"
+	line "the Pokémon Power menu option.)"
 	done
 
 EmptyText0x0b7b:
@@ -1238,7 +1243,7 @@ EnergyRemovalName:
 
 EnergyRemovalDescription:
 	text "Discard an Energy from 1 of your"
-	line "opponent's PKMN."
+	line "opponent's Pokémon."
 	done
 
 SuperEnergyRemovalName:
@@ -1247,8 +1252,9 @@ SuperEnergyRemovalName:
 
 SuperEnergyRemovalDescription:
 	text "Discard 1 Energy card attached to 1"
-	line "of your PKMN; Discard up to 2 Energy"
-	line "from 1 of your opponent's PKMN."
+	line "of your Pokémon; Discard up to 2"
+	line "Energy from 1 of your opponent's"
+	line "Pokémon."
 	done
 
 SwitchName:
@@ -1256,18 +1262,18 @@ SwitchName:
 	done
 
 SwitchDescription:
-	text "Switch your Active PKMN with 1 of"
-	line "your Benched PKMN." 
+	text "Switch your Active Pokémon with 1 of"
+	line "your Benched Pokémon." 
 	done
 
 PokemonCenterName:
-	text "PKMN Center"
+	text "Pokémon Center"
 	done
 
 PokemonCenterDescription:
 	text "Heal all damage from all of your"
-	line "Damaged PKMN, then discard all"
-	line "Energy attached to those PKMN."
+	line "Damaged Pokémon, then discard all"
+	line "Energy attached to those Pokémon."
 	done
 
 PokeBallName:
@@ -1276,8 +1282,8 @@ PokeBallName:
 
 PokeBallDescription:
 	text "Flip a coin. If heads, search your" 
-	line "deck for a PKMN, reveal it, and put" 
-	line "it into your hand. Then, shuffle" 
+	line "deck for a Pokémon, reveal it, and" 
+	line "put it into your hand. Then, shuffle" 
 	line "your deck afterward."
 	done
 

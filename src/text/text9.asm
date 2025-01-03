@@ -5,10 +5,10 @@ Text073f:
 	line "lose, but now..."
 	line "Now I understand."
 	line "The fun thing about the "
-	line "PKMN Trading Card Game"
+	line "Pokémon Trading Card Game"
 	line "is not who wins or loses..."
 	line "I couldn't inherit the Legendary "
-	line "PKMN Cards because all that "
+	line "Pokémon Cards because all that "
 	line "was important to me was winning."
 	line "But now I understand!"
 	line "What's important..."
@@ -52,7 +52,7 @@ Text0744:
 	line "Welcome to the Science Club!"
 	line "This Club is for technicians"
 	line "who love the sciences."
-	line "The PKMN cards used here are "
+	line "The Pokémon cards used here are "
 	line "those with the powers of science!"
 	done
 
@@ -104,7 +104,7 @@ Text074a:
 
 Text074b:
 	text "I don't understand science,"
-	line "but I understand PKMN cards!"
+	line "but I understand Pokémon cards!"
 	line "... I  L O S T..."
 	done
 
@@ -120,9 +120,9 @@ Text074d:
 	done
 
 Text074e:
-	text "I get so involved in the PKMN "
+	text "I get so involved in the Pokémon "
 	line "Trading Card Game, I lose track "
-	line "of time. Isn't the PKMN Trading"
+	line "of time. Isn't the Pokémon Trading"
 	line "Card Game really fun?"
 	done
 
@@ -174,12 +174,12 @@ Text0756:
 	done
 
 Text0757:
-	text "We research PKMN cards here"
+	text "We research Pokémon cards here"
 	line "at the Science Club, especially"
-	line "Science PKMN Cards! Science"
-	line "PKMN are exceedingly strong."
+	line "Science Pokémon Cards! Science"
+	line "Pokémon are exceedingly strong."
 	line "Would you like to Duel against"
-	line "my Science PKMN Deck?"
+	line "my Science Pokémon Deck?"
 	done
 
 Text0758:
@@ -197,7 +197,7 @@ Text075a:
 	done
 
 Text075b:
-	text "I can't believe my Science PKMN"
+	text "I can't believe my Science Pokémon"
 	line "Deck could lose..."
 	done
 
@@ -249,7 +249,7 @@ Text0764:
 	text "Legendary Cards are but a Legend!"
 	line "Science is the only truth!"
 	line "I must continue my research"
-	line "of Science PKMN!"
+	line "of Science Pokémon!"
 	done
 
 Text0765:
@@ -283,7 +283,7 @@ Text0769:
 
 Text076a:
 	text "I will keep researching the "
-	line "Science PKMN."
+	line "Science Pokémon."
 	done
 
 Text076b:
@@ -367,8 +367,8 @@ Text0779:
 	text "Greetings."
 	line "Welcome to the Rock Club!"
 	line "This Club is for members who"
-	line "use Rock PKMN cards."
-	line "Rock PKMN are defensive"
+	line "use Rock Pokémon cards."
+	line "Rock Pokémon are defensive"
 	line "and take very little damage."
 	done
 
@@ -458,7 +458,7 @@ Text0787:
 
 Text0788:
 	text "Wow! So that's the strength of"
-	line "the Legendary PKMN Cards!"
+	line "the Legendary Pokémon Cards!"
 	done
 
 Text0789:
@@ -468,7 +468,7 @@ Text0789:
 
 Text078a:
 	text "I won again! I guess the Legendary "
-	line "PKMN Cards will eventually "
+	line "Pokémon Cards will eventually "
 	line "belong to me!"
 	done
 
@@ -530,7 +530,7 @@ Text0792:
 	text "Gee! I lost!"
 	line "Matthew's really good!"
 	line "He'll probably inherit"
-	line "the Legendary PKMN Cards!"
+	line "the Legendary Pokémon Cards!"
 	done
 
 Text0793:
@@ -538,9 +538,9 @@ Text0793:
 	line "I can't win, no matter how many "
 	line "times I duel against him!"
 	line "He's probably going to inherit"
-	line "the Legendary PKMN Cards!"
+	line "the Legendary Pokémon Cards!"
 	line "What? You already inherited"
-	line "the Legendary PKMN Cards???"
+	line "the Legendary Pokémon Cards???"
 	line "Then you must be better"
 	line "than Matthew!"
 	done
@@ -550,11 +550,11 @@ Text0794:
 	line "to a faraway place."
 	line "But I'm not sad."
 	line "I'll make new friends dueling"
-	line "with PKMN cards..."
+	line "with Pokémon cards..."
 	done
 
 Text0795:
-	text "I'm carving a statue of a PKMN"
+	text "I'm carving a statue of a Pokémon"
 	line "out of this Rock!"
 	line "What? You want to Duel?"
 	line "Alright. You want to duel now?"
@@ -595,10 +595,10 @@ Text079b:
 Text079c:
 	text "I've always wanted to be"
 	line "a Hard Rocker!"
-	line "Rock PKMN..."
+	line "Rock Pokémon..."
 	line "Doesn't the name Rock?"
 	line "Won't you Duel against my"
-	line "Rock PKMN Deck?"
+	line "Rock Pokémon Deck?"
 	done
 
 Text079d:
@@ -682,7 +682,7 @@ Text07aa:
 	text "You see? Isn't Rock good?"
 	line "Isn't Rock wonderful?"
 	line "'Fess up and admit the greatness"
-	line "of Rock PKMN!"
+	line "of Rock Pokémon!"
 	done
 
 Text07ab:
@@ -721,7 +721,7 @@ Text07b0:
 
 PokemonTradingCardGameStaffText:
 	text ""
-	line "        PKMN Trading Card Game "
+	line "        Pokémon Trading Card Game "
 	line "                  Staff"
 	done
 
@@ -883,7 +883,7 @@ USCoordination3Text:
 	text ""
 	line "             US COORDINATION"
 	line "           Wizards of the Coast"
-	line "          PKMN Templating Team"
+	line "          Pokémon Templating Team"
 	line ""
 	line ""
 	line "            Robert Gutschera"
@@ -930,7 +930,7 @@ ManualIllustrationsText:
 
 PokemonOriginalStoryText:
 	text ""
-	line "          PKMN Original Story"
+	line "          Pokémon Original Story"
 	line ""
 	line ""
 	line "             Satoshi Tajiri"
@@ -1245,7 +1245,7 @@ LeechSeedName:
 
 LeechSeedDescription:
 	text "If this attack deals damage, Heal 10"
-	line "damage from this Pkmn."
+	line "damage from this Pokémon."
 	done
 
 SeedName:
@@ -1256,7 +1256,7 @@ BulbasaurDescription:
 	text "A strange seed was planted on its"
 	line "back at birth. Thus, a plant"
 	line "sprouted and now grows with this"
-	line "PKMN."
+	line "Pokémon."
 	done
 
 IvysaurName:
@@ -1272,12 +1272,13 @@ PoisonPowderName:
 	done
 
 InflictPoisonDescription:
-	text "The Defending Pkmn is now Poisoned."
+	text "The Defending Pokémon is now"
+	line "Poisoned."
 	done
 
 IvysaurDescription:
 	text "When the bulb on its back grows"
-	line "large, the PKMN seems to lose the"
+	line "large, the Pokémon seems to lose the"
 	line "ability to stand on its hind legs."
 	done
 
@@ -1291,13 +1292,14 @@ SolarPowerName:
 
 SolarPowerDescription:
 	text "Once during your turn, you may use"
-	line "this PKMN Power. Both Active PKMN"
-	line "recover from all Special Conditions."
+	line "this Pokémon Power. Both Active" 
+	line "Pokémon recover from all Special"
+	line "Conditions."
 	done
 
 PKMNPowerCondition:
-	text "This PKMN Power can't be used if" 
-	line "this PKMN is affected by a Status"
+	text "This Pokémon Power can't be used if" 
+	line "this Pokémon is affected by a Status"
 	line "Condition. (Asleep, Confused, or"
 	line "Paralyzed.)"
 	done
@@ -1307,12 +1309,12 @@ MegaDrainName:
 	done
 
 MegaDrainDescription:
-	text "Heal damage from this PKMN equal to"
-	line "half the damage done (Rounded Up)."
+	text "Heal damage from this Pokémon equal"
+	line "to half the damage done (Rounded Up)"
 	done
 
 AreYouBoyOrGirlText:
-	text "Do You want to play as a boy"
+	text "Do you want to play as a boy"
 	line "or as a girl?"
 	done
 
@@ -1330,7 +1332,7 @@ EnergyTransDescription:
 	text "As often as you like during your"
 	line "turn (before your attack), move 1 <GRASS>"
 	line "Energy card attached to 1 of your"
-	line "PKMN to another."
+	line "Pokémon to another."
 	done
 
 SolarBeamName:
@@ -1353,7 +1355,7 @@ StringShotName:
 
 MayInflictParalysisDescription:
 	text "Flip a coin. If heads, the Defending"
-	line "PKMN is now Paralyzed."
+	line "Pokémon is now Paralyzed."
 	done
 
 WormName:
@@ -1377,7 +1379,7 @@ StiffenName:
 StiffenDescription:
 	text "Flip a coin. If heads, during your"
 	line "opponent's next turn, prevent all"
-	line "damage deal to this PKMN."
+	line "damage deal to this Pokémon."
 	done
 
 StunSporeName:
@@ -1404,7 +1406,7 @@ WhirlwindName:
 
 WhirlwindDescription:
 	text "After doing damage, Your opponent"
-	line "Switches out their Active PKMN to"
+	line "Switches out their Active Pokémon to"
 	line "the Bench."
 	done
 
@@ -1436,7 +1438,7 @@ PoisonStingName:
 
 MayInflictPoisonDescription:
 	text "Flip a coin. If heads, the Defending"
-	line "PKMN is now Poisoned."
+	line "Pokémon is now Poisoned."
 	done
 
 HairyBugName:
