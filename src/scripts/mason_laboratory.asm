@@ -369,7 +369,6 @@ Script_EnterLabFirstTime:
 
 .ows_d779
 	start_script
-	move_active_npc NPCMovement_d880
 	print_npc_text Text05e4
 	set_dialog_npc NPC_DRMASON
 	print_npc_text Text05e5

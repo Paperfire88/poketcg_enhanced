@@ -1,5 +1,6 @@
 Pokémon TCG Enhanced Changelog
 V1.0.1
+Fixed Sam Optional Tutorial bug
 Fixed some Text typos.
 All descriptions that mentioned "PKMN" now mention "Pokémon". (Altough i recommend using "PKMN" if you want to make Custom Cards, it helps you save some unnecesary lines)
 -----------Technical Stuff------------------------
