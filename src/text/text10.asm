@@ -334,7 +334,7 @@ PetalDanceName:
 	done
 
 PetalDanceDescription:
-	text "Flip 3 coins. This attack does 30"
+	text "Flip 3 coins. This attack does 40"
 	line "damage for each heads. then, This"
 	line "Pokémon is now Confused."
 	done
