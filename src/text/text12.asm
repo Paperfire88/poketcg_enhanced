@@ -1164,8 +1164,8 @@ PokemonTraderDescription:
 	text "Reveal a Pokémon from your hand and" 
 	line "put it into your deck. If you do,"
 	line "search your deck for a Pokémon,"
-	line "reveal it, and put it into your hand."
-	line "Then, shuffle your deck."
+	line "reveal it, and put it into your"
+	line "hand. Then, shuffle your deck."
 	done
 
 PokemonBreederName:

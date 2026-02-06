@@ -198,7 +198,7 @@ TextOffsets::
 	textpointer NotEnoughPsychicEnergyText                         ; 0x00c2
 	textpointer NotEnoughWaterEnergyText                           ; 0x00c3
 	textpointer ThereAreNoTrainerCardsInDiscardPileText            ; 0x00c4
-	textpointer NoAttackMayBeChoosenText                           ; 0x00c5
+	textpointer NoAttackMayBeChosenText                            ; 0x00c5
 	textpointer YouDidNotReceiveAnAttackToMirrorMoveText           ; 0x00c6
 	textpointer ThisAttackCannotBeUsedTwiceText                    ; 0x00c7
 	textpointer NoWeaknessText                                     ; 0x00c8

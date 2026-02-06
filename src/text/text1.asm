@@ -667,7 +667,7 @@ UnusedText0096: ; Unused
 	text "Other"
 	line "Poison"
 	line "Sleep"
-	line "Payalysis"
+	line "Paralysis"
 	line "Confusion"
 	line "Double Poison"
 	line "Clear"
@@ -921,7 +921,7 @@ ThereAreNoTrainerCardsInDiscardPileText:
 	done
 
 NoAttackMayBeChoosenText:
-	text "No Attacks may be choosen."
+	text "No Attacks may be chosen."
 	done
 
 YouDidNotReceiveAnAttackToMirrorMoveText:
@@ -992,7 +992,7 @@ UnableDueToToxicGasText:
 	done
 
 UnusedText00d5: ; Unused
-	text "A Transmission Error occured."
+	text "A Transmission Error occurred."
 	done
 
 BackUpIsBrokenText:

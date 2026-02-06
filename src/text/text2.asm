@@ -319,7 +319,7 @@ ProcedureForCurseText:
 
 Choose2EnergyCardsFromDiscardPileToAttachText:
 	text "Choose 2 Energy cards from the"
-	line "Discard Pileto attach to a Pokémon."
+	line "Discard Pile to attach to a Pokémon."
 	done
 
 Choose2EnergyCardsFromDiscardPileForHandText:
@@ -751,7 +751,7 @@ ThereWasNoEffectFromConfusionText:
 	done
 
 ThereWasNoEffectFromPoisonConfusionText:
-	text "There was no effet"
+	text "There was no effect"
 	line "from Poison, Confusion."
 	done
 
@@ -825,7 +825,7 @@ ReceivedLegendaryCardText:
 	done
 
 ReceivedPromotionalFlyingPikachuText:
-	text "<RAMNAME> received a Promotinal"
+	text "<RAMNAME> received a Promotional"
 	line "card Flyin' Pikachu!"
 	done
 
