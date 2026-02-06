@@ -692,9 +692,11 @@ AIDecideBenchPokemonToSwitchTo:
 	jr z, .raise_score
 	cp MEW_LV8
 	jr nz, .check_if_has_bench_utility
+	call SwapTurn
 	ld a, DUELVARS_ARENA_CARD
-	call GetNonTurnDuelistVariable
+	call GetTurnDuelistVariable
 	call LoadCardDataToBuffer2_FromDeckIndex
+	call SwapTurn
 	ld a, [wLoadedCard2Stage]
 	or a
 	jr z, .check_if_has_bench_utility
