@@ -920,7 +920,7 @@ ThereAreNoTrainerCardsInDiscardPileText:
 	line "in the Discard Pile."
 	done
 
-NoAttackMayBeChoosenText:
+NoAttackMayBeChosenText:
 	text "No Attacks may be chosen."
 	done
 
