@@ -167,6 +167,6 @@ src/gfx/titlescreen/title_screen_cgb.2bpp: rgbgfx += -x 12
 %.bgmap: %.bin ../dimensions/%.dimensions
 	tools/bgmap $(tools/bgmap) $^ $@
 
-# remove -m if you don't care for matching
+# we DON'T care for matching. removed -m
 %.lz: %
-	tools/compressor -m $(tools/compressor) $< $@
+	tools/compressor $(tools/compressor) $< $@
