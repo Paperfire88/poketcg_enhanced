@@ -524,7 +524,7 @@ Choose2BasicEnergyCardsFromDiscardPileText:
 	done
 
 UnusedText0154: ; Unused
-	text "Choose a PKMN and press the A"
+	text "Choose a Pokémon and press the A"
 	line "Button to remove Damage counters."
 	done
 
@@ -1038,7 +1038,7 @@ Turn7Instr1PracticeDuelText:
 
 Turn7Instr2PracticeDuelText:
 	text "2. Select the evolved Starmie and"
-	line "   attack your opponent with Star"
+	line "   attack your opponent with Star "
 	line "   Freeze."
 	done
 
@@ -1839,7 +1839,7 @@ NoDeckIsSavedText:
 	done
 
 UnusedText0265: ; Unused
-	text "Please choose a Deck"
+	text "Please choose a Deck "
 	line "configuration to delete."
 	done
 
