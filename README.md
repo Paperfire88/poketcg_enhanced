@@ -4,7 +4,7 @@ This is a disassembly of Pokémon TCG.
 
 It builds the following ROM:
 
-- Pokémon Trading Card Game (U) [C][!].gbc `sha1: c1b46e8dbe970bff01d4b4f5af00a05486f3a939`
+- Pokémon Trading Card Game (U) [C][!].gbc `sha1: 94a88f28ffe112aedea6680db67df826c80d697a`
 
 To assemble, first download RGBDS (https://github.com/gbdev/rgbds/releases) and extract it to /usr/local/bin.
 Run `make` in your shell.
